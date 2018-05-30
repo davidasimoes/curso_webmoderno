@@ -33,5 +33,5 @@ console.log('pra finalizar...')
 console.log(!!('' || null || 0 || ' '))
 
 //Imprimir valor padrão se variável estiver vazia.
-let nome = 'David'
+let nome = ''
 console.log(nome || "Desconhecido");
