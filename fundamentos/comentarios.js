@@ -1,3 +1,9 @@
+/**
+ * 1- Evite comentários desnecessários
+ * 2 - Prefira códigos claros, sempre
+ * 3 - Comente para estudar
+ */
+
 //Comentário de uma linha
 console.log('Linha 1')
 
